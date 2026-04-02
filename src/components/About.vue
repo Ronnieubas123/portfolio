@@ -35,7 +35,7 @@
             <div class="absolute inset-0 bg-gradient-to-br from-primary/20 to-chart-1/20 rounded-3xl transform rotate-3"></div>
             <div class="relative bg-card rounded-3xl p-8 shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&crop=face"
+                src="../assets/img/profile.jpg"
                 alt="Alex Chen"
                 class="w-full h-80 object-cover rounded-2xl mb-6"
               />
