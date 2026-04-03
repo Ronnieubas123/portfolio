@@ -143,7 +143,7 @@ export default {
         label: 'Resume',
         action: () => {
           const link = document.createElement('a')
-          link.href = '/Ronnie-Ubas-Resume.pdf'
+          link.href = `${import.meta.env.BASE_URL}Ronnie-Ubas-Resume.pdf`
           link.download = 'Ronnie-Ubas-Resume.pdf'
           document.body.appendChild(link)
           link.click()

@@ -159,7 +159,7 @@ export default {
         skills: [
           { name: "AWS", experience: "2+ months", level: "Beginner", icon: "☁️" },
           { name: "CI/CD", experience: "3+ years", level: "Advanced", icon: "🔄" },
-          { name: "Git", experience: "5+ years", level: "Expert", icon: "🌿" },
+          { name: "Git", experience: "3+ years", level: "Expert", icon: "🌿" },
           { name: "GoDaddy", experience: "3+ years", level: "Advanced", icon: "🟡" },
           { name: "Hostinger", experience: "5+ months", level: "Intermediate", icon: "🟠" },
           { name: "SiteGround", experience: "1+ year", level: "Intermediate", icon: "🟢" },
@@ -171,11 +171,10 @@ export default {
         color: "from-primary to-chart-1",
         skills: [
           { name: "Figma", experience: "4+ years", level: "Advanced", icon: "🎨" },
-          { name: "Adobe XD", experience: "3+ years", level: "Intermediate", icon: "🔷" },
-          { name: "Prototyping", experience: "4+ years", level: "Advanced", icon: "🔧" },
-          { name: "User Research", experience: "2+ years", level: "Intermediate", icon: "🔍" },
-          { name: "Design Systems", experience: "3+ years", level: "Advanced", icon: "📐" },
-          { name: "Animation", experience: "2+ years", level: "Intermediate", icon: "✨" }
+          { name: "Adobe XD", experience: "3+ years", level: "Beginner", icon: "🟪" },
+          { name: "Adobe Photoshop", experience: "3+ years", level: "Beginner", icon: "🟦" },
+          { name: "Photopea", experience: "2+ years", level: "Intermediate", icon: "🟢" },
+          { name: "Animation", experience: "2+ years", level: "Intermediate", icon: "🎞️" }
         ]
       }
     }
